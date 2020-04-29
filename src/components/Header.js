@@ -1,11 +1,13 @@
 import React from 'react'
 
+import iso from '../assets/SVG/ISO.svg'
+
 class Header extends React.Component {
   render() {
     return (
       <section id="header">
         <div className="inner">
-          <span className="icon major fa-cloud"></span>
+          <img src={iso} alt="iso" />
           <h1>
             <strong>KINEVR</strong>
           </h1>
