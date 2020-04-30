@@ -7,3 +7,24 @@ html {
     width: 8em;
   }
 }
+
+.feedbackBtn {
+  padding: 2% 7%;
+  background-color: #00b300;
+  margin-right: 0;
+  color: white !important;
+  border-radius: 10px;
+  line-height: unset;
+}
+
+.ant-form-item-explain {
+  margin: 5% 0;
+}
+
+#header {
+  .inner {
+    img {
+      width: 8rem;
+    }
+  }
+}
