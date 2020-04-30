@@ -11,7 +11,7 @@ class Header extends React.Component {
           <h1>
             <strong>KINEVR</strong>
           </h1>
-          <p>Slogan</p>
+          <p>Medicina Inmersiva</p>
           <ul className="actions">
             <li>
               <a href="#one" className="button scrolly">
