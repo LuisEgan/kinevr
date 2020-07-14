@@ -5,7 +5,7 @@ class Footer extends React.Component {
     return (
       <section id="footer">
         <ul className="copyright">
-          <li>&copy; KineVR SPA</li>
+          <li>&copy; toLabIT SPA</li>
           <li>Tecnologías Innovadoras</li>
         </ul>
       </section>
